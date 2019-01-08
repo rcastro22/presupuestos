@@ -1,0 +1,4 @@
+[30-Sep-2014 16:27:04 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/ping77/public_html/tiendas/system/database/drivers/pdo/pdo_driver.php on line 193
+[30-Sep-2014 16:27:19 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/ping77/public_html/tiendas/system/database/drivers/pdo/pdo_driver.php on line 193
+[30-Sep-2014 16:27:32 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/ping77/public_html/tiendas/system/database/drivers/pdo/pdo_driver.php on line 193
+[28-Jul-2016 22:35:12 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/sisteykk/public_html/presupuestos/application/views/menu.php on line 26
